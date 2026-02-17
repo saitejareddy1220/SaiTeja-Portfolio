@@ -1,3 +1,8 @@
+ <a href="mailto:chsaitejareddy2002@gmail.com">Email</a> 
+ <a href="https://github.com/saitejareddy1220">GitHub</a> 
+ <a href="https://www.linkedin.com/in/sai-teja-reddy-ch/">LinkedIn</a>
+
+ ---
 ## Summary
 
 Data Analyst with experience building KPI reporting, dashboards, and repeatable data pipelines across higher-ed admissions analytics and client-facing business reporting. Comfortable working end-to-end: SQL extracts → data validation/cleaning → modeling/ETL → BI dashboards and stakeholder-ready storytelling.
