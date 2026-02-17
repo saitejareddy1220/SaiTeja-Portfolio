@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Stop long links from spilling everywhere */
+a { word-break: break-word; }
+
+/* Hide the theme’s GitHub project link block */
+header p.view { display: none; }
+
+/* Hide the theme footer credits that overlap your sidebar content */
+footer { display: none; }
+
+/* If your sidebar content gets tall, make it scroll instead of colliding */
+header { max-height: 100vh; overflow-y: auto; }
